@@ -23,6 +23,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
+  - title: Test
+    url: /2021/01/19/first-post.html
 
   - titles:
       # @start locale config
